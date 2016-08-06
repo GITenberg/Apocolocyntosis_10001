@@ -1,0 +1,35 @@
+_repo: Apocolocyntosis_10001
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Rouse, W. H. D. (William Henry Denham)
+    alias: Rouse, William Henry Denham
+    birthdate: 1863
+    deathdate: 1950
+    gutenberg_agent_id: '34722'
+    url: http://www.gutenberg.org/2009/agents/34722
+creator:
+  author:
+    agent_name: Seneca, Lucius Annaeus
+    aliases:
+    - Seneca, Annaeus
+    - Seneca, L. A. (Lucius Annaeus)
+    deathdate: 65
+    gutenberg_agent_id: '1308'
+    url: http://www.gutenberg.org/2009/agents/1308
+    wikipedia: http://en.wikipedia.org/wiki/Seneca_the_Younger
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10001'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Claudius, Emperor of Rome, 10 B.C.-54 A.D. -- Humor'
+- GITenberg
+title: Apocolocyntosis
+url: http://www.gutenberg.org/ebooks/10001
